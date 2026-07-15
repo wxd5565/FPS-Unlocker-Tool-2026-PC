@@ -1,0 +1,5 @@
+numpy
+pymem
+keyboard
+mouse
+opencv-python
